@@ -2,7 +2,7 @@
 
 ![CoMet](imgs/CoMet.png)
 
-Official PyTorch implementation of "Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning" (ICCV 2025)
+Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning
 
 Muhammad Aqeel, Shakiba Sharifi, Marco Cristani, Francesco Setti
 
