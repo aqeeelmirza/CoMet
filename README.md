@@ -1,10 +1,12 @@
 # CoMet
 
-Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning
+![CoMet](imgs/CoMet.png)
+
+Official PyTorch implementation of "Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning" (ICCV 2025)
 
 Muhammad Aqeel, Shakiba Sharifi, Marco Cristani, Francesco Setti
 
-Paper: https://openaccess.thecvf.com/content/ICCV2025/html/Aqeel_Towards_Real_Unsupervised_Anomaly_Detection_Via_Confident_Meta-Learning_ICCV_2025_paper.html
+[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Aqeel_Towards_Real_Unsupervised_Anomaly_Detection_Via_Confident_Meta-Learning_ICCV_2025_paper.html)
 
 
 Abstract
@@ -35,14 +37,11 @@ Note: Above versions are tested, but other versions may also work.
 
 Datasets
 
-MVTec-AD
-Download from: https://www.mvtec.com/company/research/datasets/mvtec-ad
+[MVTec-AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)
 
-KSDD2
-Download from: https://www.vicos.si/resources/kolektorsdd2/
+[KSDD2](https://www.vicos.si/resources/kolektorsdd2/)
 
-VIADUCT
-Download from: https://fordatis.fraunhofer.de/handle/fordatis/363
+[VIADUCT](https://fordatis.fraunhofer.de/handle/fordatis/363)
 
 All datasets should maintain their original folder structure. Update dataset paths in `run.sh` before training.
 
@@ -75,7 +74,7 @@ If you find this work useful, please cite:
 
 Acknowledgement
 
-This work builds upon SimpleNet (https://github.com/DonaldRR/SimpleNet). We thank the authors for their excellent work.
+This work builds upon [SimpleNet](https://github.com/DonaldRR/SimpleNet). We thank the authors for their excellent work.
 
 
 License
