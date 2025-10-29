@@ -1,6 +1,5 @@
 # ------------------------------------------------------------------
-# CoMet: Utility Functions
-# Part of: https://github.com/yourname/CoMet-Anomaly-Detection
+# CoMet: https://github.com/aqeeelmirza/CoMet
 # ------------------------------------------------------------------
 
 import csv
