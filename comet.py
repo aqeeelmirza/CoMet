@@ -1,7 +1,6 @@
 # ------------------------------------------------------------------
 # CoMet: Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning (https://openaccess.thecvf.com/content/ICCV2025/html/Aqeel_Towards_Real_Unsupervised_Anomaly_Detection_Via_Confident_Meta-Learning_ICCV_2025_paper.html)
 # Licensed under the MIT License
-# The script is based on the code of SimpleNet (https://github.com/DonaldRR/SimpleNet)
 # ------------------------------------------------------------------
 
 """detection methods."""
